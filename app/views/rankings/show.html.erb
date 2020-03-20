@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Ranking date:</strong>
+  <%= @ranking.ranking_date %>
+</p>
+
+<p>
+  <strong>Position:</strong>
+  <%= @ranking.position %>
+</p>
+
+<p>
+  <strong>Player:</strong>
+  <%= @ranking.player_id %>
+</p>
+
+<p>
+  <strong>Ranking points:</strong>
+  <%= @ranking.ranking_points %>
+</p>
+
+<%= link_to 'Edit', edit_ranking_path(@ranking) %> |
+<%= link_to 'Back', rankings_path %>

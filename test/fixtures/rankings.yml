@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ranking_date: 2020-03-19
+  position: 1
+  player: one
+  ranking_points: 1
+
+two:
+  ranking_date: 2020-03-19
+  position: 1
+  player: two
+  ranking_points: 1
