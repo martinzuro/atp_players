@@ -9,7 +9,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'coffee-rails'
 gem 'jbuilder', '~> 2.7'
 gem 'pg', '~> 1.1.4'
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 gem 'rails_admin', '~> 2.0'
 gem 'rails_admin_charts'
